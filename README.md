@@ -1,4 +1,4 @@
-This project appears to be a Python script that performs noise reduction on an audio clip using various signal processing techniques and libraries. Here's a brief description of the project's main components and functionalities:
+Here's a brief description of the project's main components and functionalities:
 
 1. **Libraries and Imports**: The project starts by importing necessary Python libraries, including NumPy, Librosa, IPython, Matplotlib, and SciPy, to handle audio processing, visualization, and signal manipulation.
 
